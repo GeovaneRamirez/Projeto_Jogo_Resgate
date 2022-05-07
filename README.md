@@ -6,4 +6,4 @@ Projeto realizado durante um bootcamp da [Digital Innovation One](https://digita
 
 Neste projeto, foi desenvolvido meu prieiro jogo de naves utilizando HTML, CSS e Javascript.
 
-###   [RODAR JOGO](adicionar link)
+###   [RODAR JOGO](https://geovaneramirez.github.io/Projeto_Jogo_Resgate/)
